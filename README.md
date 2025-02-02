@@ -36,6 +36,9 @@ It is just a baby step in my long journey to be professional in deep learning, I
 - The model's accuracy and loss are plotted during training.
 - The final trained model can be used for classification tasks.
 
+- ### Model Accuracy and Loss
+![Model Accuracy](model_accuracy.png)
+
 ## Future Improvements
 - Implementing hyperparameter tuning.
 - Experimenting with different CNN architectures.
