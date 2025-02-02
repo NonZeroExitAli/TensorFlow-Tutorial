@@ -33,7 +33,7 @@ It is just a baby step in my long journey to be professional in deep learning, I
 3. **Model Evaluation**: Inspect training history and validate performance.
 
 ## CNN Model Construction
-![CNN Model](CNN Model.png)
+![CNN_Model](CNN_Model.png)
 
 ## Results
 - The model's accuracy and loss are plotted during training.
