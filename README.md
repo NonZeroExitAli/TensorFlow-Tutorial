@@ -32,6 +32,9 @@ It is just a baby step in my long journey to be professional in deep learning, I
 2. **Run `TensorFlow-TUT_Ali.ipynb`**: Execute the script to preprocess images, train the model, and visualize results.
 3. **Model Evaluation**: Inspect training history and validate performance.
 
+## CNN Model Construction
+![CNN Model](CNN Model.png)
+
 ## Results
 - The model's accuracy and loss are plotted during training.
 - The final trained model can be used for classification tasks.
